@@ -1,0 +1,9 @@
+gradio
+asyncpraw
+transformers
+torch
+matplotlib
+nest_asyncio
+plotly
+pandas
+psutil
