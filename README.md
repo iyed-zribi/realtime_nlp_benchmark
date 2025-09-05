@@ -23,6 +23,9 @@ It also shows **interactive graphs** (Plotly) and exports results to a downloada
 - Highlights the **best overall model** (fastest + most memory-efficient)
 
 ---
+## Run in Google Colab:
+You can run this project directly in Google Colab without installing anything locally. Just open the notebook and execute the cells to benchmark NLP models interactively.
+---
 
 ## Installation
 
