@@ -24,12 +24,6 @@ It also shows **interactive graphs** (Plotly) and exports results to a downloada
 
 ---
 
-## Run in Google Colab
-
-Click below to run this project in Google Colab:
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iyed-zribi/realtime_nlp_benchmark/blob/main/nlp_benchmark.py)
-
 ## Installation
 
 Clone repo:
